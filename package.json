@@ -1,0 +1,16 @@
+{
+  "name": "truerace-live",
+  "version": "1.0.0",
+  "description": "TrueRace Live Results Display — MC View & Admin Panel",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
